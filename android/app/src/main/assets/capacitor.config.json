@@ -1,0 +1,6 @@
+{
+	"appId": "com.chetz.Foodie",
+	"appName": "FoodieApp",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

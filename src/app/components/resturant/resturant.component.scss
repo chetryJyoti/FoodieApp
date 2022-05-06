@@ -1,0 +1,27 @@
+ion-item {
+  ion-thumbnail {
+    width: 28vw;
+    height: 16vh;
+    // box-shadow: 1px 1px 1px 1px #3fff05;
+  }
+  ion-text {
+    h4 {
+      font-size: large;
+    }
+    p {
+      font-size: 0.8rem;
+    }
+  }
+  img {
+    border-radius: 5px;
+    height: 100%;
+    width: 100%;
+  }
+  .distance-away {
+    font-size: 0.8rem !important;
+  }
+  .price {
+    font-size: 0.8rem !important;
+    font-weight: 500;
+  }
+}

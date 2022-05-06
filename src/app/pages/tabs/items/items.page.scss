@@ -1,0 +1,35 @@
+ion-content {
+
+  .veg {
+    align-items: center;
+    margin-top: -19px;
+  }
+  ion-list-header {
+    font-size: 1rem;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+  }
+  ion-spinner{
+    margin-left: 29%;
+    width: 30%;
+    height: 30%;
+  }
+}
+ion-footer{
+  p{
+    color: white !important;
+    font-size:.55rem;
+    font-weight: 100;
+    line-height: 1;
+    letter-spacing: 0.5px;
+  }
+  ion-label{
+    h4,p{
+      margin-left:1rem;
+    }
+  }
+  ion-button{
+    color: white;
+  }
+
+}

@@ -24,3 +24,35 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+
+// *{
+//   font-family: 'Poppins', sans-serif;
+// }
+
+ion-title{
+  font-weight: bold;
+}
+
+ion-label ,h4{
+  font-weight: bold !important;
+  font-size: 0.9rem;
+}
+ion-note,p{
+  font-size: 0.8rem;
+  color: var(--ion-color-dark-tint);
+}
+.borderBottom {
+  border-bottom: 1vh solid rgb(255, 255, 255);
+}
+
+h5{
+  font-size: 0.85rem;
+}
+h6
+{
+  font-size: 0.82rem;
+}
+.borderBottomSmall{
+  border-bottom: .5vh solid rgb(248, 244, 244);
+}

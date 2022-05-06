@@ -1,0 +1,14 @@
+ion-searchbar {
+  margin-top: 1rem;
+  padding: 0.8rem;
+}
+
+ion-list {
+  ion-list-header {
+    margin-top: -1.4rem;
+  }
+  span {
+    font-weight: bold;
+    color: var(--ion-color-success-tint);
+  }
+}
